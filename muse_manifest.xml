@@ -1,0 +1,100 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.com" resolutions="1x" timestamp="1502677347835">
+  <folder name="css">
+    <file name="site_global.css" crc="191053375"/>
+    <file name="master_a-master.css" crc="149804501" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="346963946" ref="index"/>
+    <file name="index.css" crc="3986462319" ref="index"/>
+    <file name="nomq_index.css" crc="4242347612" ref="index"/>
+    <file name="iefonts_index.css" crc="173181809" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u41717.php" crc="3955214013" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="image header1.jpg" crc="203872775" ref="index"/>
+    <file name="background-1.jpg" crc="25437682" ref="index"/>
+    <file name="about-1.jpg" crc="1959323" ref="index"/>
+    <file name="facebook.png" crc="4025041068" seo="true" ref="index"/>
+    <file name="instagram.png" crc="4048365007" seo="true" ref="index"/>
+    <file name="linkedin.png" crc="4028512709" seo="true" ref="index"/>
+    <file name="pinterest.png" crc="4260954033" seo="true" ref="index"/>
+    <file name="twitter.png" crc="345851710" seo="true" ref="index"/>
+    <file name="youtube.png" crc="15320581" seo="true" ref="index"/>
+    <file name="bubble speech.png" crc="4173926590" seo="true" ref="index"/>
+    <file name="background-2.jpg" crc="3843008211" ref="index"/>
+    <file name="polygon-1.png" crc="63227867" seo="true" ref="index"/>
+    <file name="print design-1.jpg" crc="3793868076" ref="index"/>
+    <file name="print design-1-u41675-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="print design-2.jpg" crc="482169820" ref="index"/>
+    <file name="print design-2-u41685-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="print design-3.jpg" crc="353347746" ref="index"/>
+    <file name="print design-3-u41677-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="print design-4.jpg" crc="118802130" ref="index"/>
+    <file name="print design-4-u41683-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="print design-5.jpg" crc="4092063781" ref="index"/>
+    <file name="print design-5-u41684-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="print design-6.jpg" crc="4028892747" ref="index"/>
+    <file name="print design-6-u41681-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="web design-1.jpg" crc="316829613" ref="index"/>
+    <file name="web design-1-u41653-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="web design-2.jpg" crc="4171953746" ref="index"/>
+    <file name="web design-2-u41659-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="web design-3.jpg" crc="4080940092" ref="index"/>
+    <file name="web design-3-u41656-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="web design-4.jpg" crc="3843381004" ref="index"/>
+    <file name="web design-4-u41648-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="web design-5.jpg" crc="4265419216" ref="index"/>
+    <file name="web design-5-u41655-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="web design-6.jpg" crc="4265419216" ref="index"/>
+    <file name="web design-6-u41651-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="branding-1.jpg" crc="4196363695" ref="index"/>
+    <file name="branding-1-u41663-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="branding-2.jpg" crc="4059003114" ref="index"/>
+    <file name="branding-2-u41662-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="branding-3.jpg" crc="4092279301" ref="index"/>
+    <file name="branding-3-u41667-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="branding-4.jpg" crc="500147094" ref="index"/>
+    <file name="branding-4-u41671-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="branding-5.jpg" crc="434518733" ref="index"/>
+    <file name="branding-5-u41670-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="branding-6.jpg" crc="161664336" ref="index"/>
+    <file name="branding-6-u41661-r-fr.png" crc="3864705465" ref="index"/>
+    <file name="background-3.jpg" crc="3957274592" ref="index"/>
+    <file name="polygon-2.png" crc="478109204" seo="true" ref="index"/>
+    <file name="background-4.jpg" crc="3957274592" ref="index"/>
+    <file name="customer-1.jpg" crc="453588602" ref="index"/>
+    <file name="customer-2.jpg" crc="223375508" ref="index"/>
+    <file name="star-1.png" crc="4137091235" seo="true" ref="index"/>
+    <file name="star-2.png" crc="367000945" seo="true" ref="index"/>
+    <file name="star-3.png" crc="164601045" seo="true" ref="index"/>
+    <file name="background-1-u41502-fr.jpg" crc="426603360" ref="index"/>
+    <file name="background-2-u41500-fr.jpg" crc="163865998" ref="index"/>
+    <file name="background-3-u44069-fr.jpg" crc="168817925" ref="index"/>
+    <file name="menu-normal.png" crc="4046294350" ref="index"/>
+    <file name="menu-active.png" crc="4253104655" ref="index"/>
+    <file name="background-1-u41502-fr2.jpg" crc="90886218" ref="index"/>
+    <file name="background-2-u41500-fr2.jpg" crc="4090795872" ref="index"/>
+    <file name="about-1-u41562-fr.jpg" crc="3910707828" ref="index"/>
+    <file name="background-2-u41500-fr3.jpg" crc="132532126" ref="index"/>
+  </folder>
+  <file name="index.html" crc="238943526" seo="true" mt="1502677203832" redirect="true"/>
+</manifest>
